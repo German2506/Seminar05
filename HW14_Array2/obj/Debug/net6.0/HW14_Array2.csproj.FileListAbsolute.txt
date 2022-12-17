@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\bin\Debug\net6.0\HW14_Array2.exe
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\bin\Debug\net6.0\HW14_Array2.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\bin\Debug\net6.0\HW14_Array2.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\bin\Debug\net6.0\HW14_Array2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\bin\Debug\net6.0\HW14_Array2.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\HW14_Array2.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\HW14_Array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\HW14_Array2.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\HW14_Array2.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\HW14_Array2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\HW14_Array2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\refint\HW14_Array2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\HW14_Array2.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\HW14_Array2.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_5\HW14_Array2\obj\Debug\net6.0\ref\HW14_Array2.dll
